@@ -7,7 +7,7 @@ This project provides a seamless way to transform and generate customized report
 ### HLD:
 ![HLD](images/HLD.JPG)
 ### Frontend:
-![frontend]<img width="844" alt="Screenshot 2024-07-25 at 11 56 19 AM" src="https://github.com/user-attachments/assets/2588f7dd-ef5b-48e7-8d6b-e94d53e65f84">
+<img width="844" alt="Screenshot 2024-07-25 at 11 56 19 AM" src="https://github.com/user-attachments/assets/2588f7dd-ef5b-48e7-8d6b-e94d53e65f84">
 
 
 - **Framework**: Angular
